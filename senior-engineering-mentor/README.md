@@ -5,6 +5,7 @@ Skill para Claude que atua como tutor técnico pessoal na preparação para entr
 ## Conteúdo
 
 - `SKILL.md` — definição da skill (frontmatter + instruções).
+- `SYSTEM_PROMPT.md` — versão em formato de system prompt, para uso fora do sistema de skills.
 
 ## Uso
 
